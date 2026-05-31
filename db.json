@@ -1,5 +1,19 @@
 {
-  "blogs": [],
+  "blogs": [
+    {
+      "slug": "dnex",
+      "title": "Danex Collaborating with EL7",
+      "date": "2026-05-31",
+      "author": "El7 Team",
+      "description": "",
+      "image": "",
+      "tags": [
+        "Pterodactyl"
+      ],
+      "published": true,
+      "body": ""
+    }
+  ],
   "projects": [
     {
       "id": "1778503014847",
